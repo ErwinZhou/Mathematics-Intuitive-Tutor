@@ -6,7 +6,7 @@ import re
 import cv2
 
 # Set your OpenAI API key
-openai.api_key = 'sk-proj-nI1DC8WFh8zQbWh4kz2gT3BlbkFJ7KVEQVEpiCGykCVZCgc9'
+openai.api_key = 'sk-'
 
 def extract_python_code(response):
     # Use regex to extract code between ```python and the next ```
