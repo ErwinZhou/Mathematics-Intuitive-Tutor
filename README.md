@@ -5,8 +5,6 @@ This is my Blended Learning PBL of Computer Vision - Microsoft Project
 [![license](img/NetworkSecurity2024.svg)](https://github.com/ErwinZhou/NetworkSecurity2024/blob/main/LICENSE)  
 [![standard-readme compliant](img/readme style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
-
-
 ## Table of Contents
 
 * [References](#References)
